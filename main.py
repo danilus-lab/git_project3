@@ -1,6 +1,6 @@
 # Novskiy Daniil Dmitrievich
 def my_superfunction():
-    print('Print')
+    print('Hello, Python!')
 
 
 def main():
