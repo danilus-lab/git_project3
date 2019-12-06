@@ -5,6 +5,7 @@ def my_superfunction():
 def main():
     print('My first git program')
     print('And i change it every day')
+    print(1)
 
 
 if __name__ == '__main__':
